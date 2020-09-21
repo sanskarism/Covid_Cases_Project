@@ -1,4 +1,4 @@
-Covid 19 Pie Chart
+Covid 19 Cases Pie Chart using python
 
 1- Install covid library in your pc
    (pip install covid)
